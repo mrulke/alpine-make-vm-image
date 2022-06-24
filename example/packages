@@ -4,3 +4,7 @@ logrotate
 openssh
 ssmtp
 sudo
+curl
+nano
+docker 
+docker-compose
